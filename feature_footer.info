@@ -1,0 +1,13 @@
+name = feature_footer_omega
+core = 7.x
+package = Features
+dependencies[] = fe_block
+features[fe_block_boxes][] = upei_footer1
+features[fe_block_boxes][] = upei_footer2
+features[fe_block_boxes][] = upei_footer3
+features[fe_block_boxes][] = upei_footer4
+features[fe_block_boxes][] = upei_footer5
+features[fe_block_boxes][] = upei_prefooter
+features[fe_block_boxes][] = upei_subfooter_left
+features[fe_block_boxes][] = upei_subfooter_right
+features[features_api][] = api:2
